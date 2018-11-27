@@ -1,0 +1,41 @@
+
+body {
+  background-color: #e1e1ea;
+  font-family: Arial;
+      }
+
+
+h1 {
+font-style: italic;
+background-color: #696996;
+color: white;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+
+.font-indie-flower {
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+}
+
+
+.search {
+  color:#696996;
+}
+
+.frame {
+  background-color: white;
+  border: 6px #696996 dotted; padding: 5px;
+}
+
+.frame:hover {
+  border: 3px solid red;
+}
+
+
+.description p strong {
+color: #696996
+}
