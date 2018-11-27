@@ -1,0 +1,15 @@
+html,body {
+font-family: "Times New Roman", Times, serif;
+background-color: yellow;
+}
+
+.image {
+border: 6px black dotted;
+padding: 5px;
+}
+
+.info {
+background-color: blue;
+color: white;
+}
+
